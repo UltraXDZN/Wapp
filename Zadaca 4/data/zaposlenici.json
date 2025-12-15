@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "ime": "Pero",
+    "prezime": "Ždero",
+    "godine_staža": 10,
+    "pozicija": "direktor"
+  },
+  {
+    "id": 2,
+    "ime": "Žužić",
+    "prezime": "Pužić",
+    "godine_staža": 7,
+    "pozicija": "voditelj"
+  },
+  {
+    "id": 3,
+    "ime": "La",
+    "prezime": "Pamperia",
+    "godine_staža": 3,
+    "pozicija": "programer"
+  },
+  {
+    "id": 4,
+    "ime": "Jurica",
+    "prezime": "Purica",
+    "godine_staža": 5,
+    "pozicija": "dizajner"
+  },
+  {
+    "id": 5,
+    "ime": "Negro",
+    "prezime": "Melković",
+    "godine_staža": 2,
+    "pozicija": "programer"
+  },
+  {
+    "id": 6,
+    "ime": "Nedamise",
+    "prezime": "raditiovo",
+    "godine_staža": 52,
+    "pozicija": "programer"
+  }
+]

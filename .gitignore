@@ -1,0 +1,9 @@
+PrimjerKolokvija
+PrimjerKolokvija-GROK
+PrviKolokvij
+
+*/node_modules/**/*
+
+*.zip
+
+*.env
